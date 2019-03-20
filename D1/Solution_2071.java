@@ -1,6 +1,6 @@
 package D1;
 /*2071. 평균값 구하기(D1)
-https://www.swexpertacademy.com/main/code/problem/problemDetail.do
+https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE
 21,056kb / 152ms / 625
 */
 import java.util.Scanner;
